@@ -1,0 +1,642 @@
+2026-11-11 10:02:39,559 | INFO | === Organizer run started (dry_run=True) ===
+2026-11-11 10:02:39,561 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\AppData\Local\Temp\tmp7uj8hc3x\z.png -> C:\Users\Sreevalli\AppData\Local\Temp\tmp7uj8hc3x\Images\z.png
+2026-11-11 10:02:39,561 | INFO | Run finished: total=1 moved={'Images': 1, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:02:39,568 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w7p3a6\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w7p3a6\Images\a.jpg
+2026-11-11 10:02:39,568 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w7p3a6\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w7p3a6\Images\a.jpg
+2026-11-11 10:02:39,569 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w7p3a6\b.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w7p3a6\Documents\b.txt
+2026-11-11 10:02:39,569 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w7p3a6\b.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w7p3a6\Documents\b.txt
+2026-11-11 10:02:39,570 | INFO | Run finished: total=2 moved={'Images': 1, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:02:39,570 | INFO | Run finished: total=2 moved={'Images': 1, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:02:39,576 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,576 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,580 | INFO | Skipped (hidden file): .secret.txt
+2026-11-11 10:02:39,580 | INFO | Skipped (hidden file): .secret.txt
+2026-11-11 10:02:39,582 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpdbxx4j2h\Documents
+2026-11-11 10:02:39,582 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpdbxx4j2h\Documents
+2026-11-11 10:02:39,583 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpdbxx4j2h\visible.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpdbxx4j2h\Documents\visible.txt
+2026-11-11 10:02:39,583 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpdbxx4j2h\visible.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpdbxx4j2h\Documents\visible.txt
+2026-11-11 10:02:39,584 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:39,584 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:39,588 | ERROR | Target folder does not exist: C:\Users\SREEVA~1\AppData\Local\Temp\tmp7jd76dp4\does_not_exist
+2026-11-11 10:02:39,588 | ERROR | Target folder does not exist: C:\Users\SREEVA~1\AppData\Local\Temp\tmp7jd76dp4\does_not_exist
+2026-11-11 10:02:39,596 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Images
+2026-11-11 10:02:39,596 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Images
+2026-11-11 10:02:39,597 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Images\a.jpg
+2026-11-11 10:02:39,597 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Images\a.jpg
+2026-11-11 10:02:39,599 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Documents
+2026-11-11 10:02:39,599 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Documents
+2026-11-11 10:02:39,599 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\b.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Documents\b.pdf
+2026-11-11 10:02:39,599 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\b.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Documents\b.pdf
+2026-11-11 10:02:39,601 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Videos
+2026-11-11 10:02:39,601 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Videos
+2026-11-11 10:02:39,602 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\c.mp4 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Videos\c.mp4
+2026-11-11 10:02:39,602 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\c.mp4 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Videos\c.mp4
+2026-11-11 10:02:39,604 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Audio
+2026-11-11 10:02:39,604 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Audio
+2026-11-11 10:02:39,604 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\d.mp3 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Audio\d.mp3
+2026-11-11 10:02:39,604 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\d.mp3 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Audio\d.mp3
+2026-11-11 10:02:39,606 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Archives
+2026-11-11 10:02:39,606 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Archives
+2026-11-11 10:02:39,607 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\e.zip -> C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Archives\e.zip
+2026-11-11 10:02:39,607 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\e.zip -> C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Archives\e.zip
+2026-11-11 10:02:39,609 | INFO | Run finished: total=5 moved={'Images': 1, 'Documents': 1, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,609 | INFO | Run finished: total=5 moved={'Images': 1, 'Documents': 1, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,618 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\Others
+2026-11-11 10:02:39,618 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\Others
+2026-11-11 10:02:39,619 | ERROR | Failed to move C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\bad.xyz: simulated locked file
+2026-11-11 10:02:39,619 | ERROR | Failed to move C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\bad.xyz: simulated locked file
+2026-11-11 10:02:39,620 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\Documents
+2026-11-11 10:02:39,620 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\Documents
+2026-11-11 10:02:39,621 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\good.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\Documents\good.txt
+2026-11-11 10:02:39,621 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\good.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\Documents\good.txt
+2026-11-11 10:02:39,623 | INFO | Run finished: total=2 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=1 dry_run=False
+2026-11-11 10:02:39,623 | INFO | Run finished: total=2 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=1 dry_run=False
+2026-11-11 10:02:39,628 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpeozrz0qm\Others
+2026-11-11 10:02:39,628 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpeozrz0qm\Others
+2026-11-11 10:02:39,629 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpeozrz0qm\data -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpeozrz0qm\Others\data
+2026-11-11 10:02:39,629 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpeozrz0qm\data -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpeozrz0qm\Others\data
+2026-11-11 10:02:39,630 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,630 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,638 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpwyisrrgd\Documents
+2026-11-11 10:02:39,638 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpwyisrrgd\Documents
+2026-11-11 10:02:39,639 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpwyisrrgd\clash.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpwyisrrgd\Documents\clash.txt
+2026-11-11 10:02:39,639 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpwyisrrgd\clash.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpwyisrrgd\Documents\clash.txt
+2026-11-11 10:02:39,640 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,640 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,643 | WARNING | Undo: original path occupied, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpwyisrrgd\clash.txt
+2026-11-11 10:02:39,643 | WARNING | Undo: original path occupied, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpwyisrrgd\clash.txt
+2026-11-11 10:02:39,648 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\Documents
+2026-11-11 10:02:39,648 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\Documents
+2026-11-11 10:02:39,649 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\Documents\restore_me.pdf
+2026-11-11 10:02:39,649 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\Documents\restore_me.pdf
+2026-11-11 10:02:39,650 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,650 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,660 | INFO | Undo: restored C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\Documents\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\restore_me.pdf
+2026-11-11 10:02:39,660 | INFO | Undo: restored C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\Documents\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\restore_me.pdf
+2026-11-11 10:02:39,665 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmptwrcea_9\Others
+2026-11-11 10:02:39,665 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmptwrcea_9\Others
+2026-11-11 10:02:39,666 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmptwrcea_9\unknown.xyz -> C:\Users\SREEVA~1\AppData\Local\Temp\tmptwrcea_9\Others\unknown.xyz
+2026-11-11 10:02:39,666 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmptwrcea_9\unknown.xyz -> C:\Users\SREEVA~1\AppData\Local\Temp\tmptwrcea_9\Others\unknown.xyz
+2026-11-11 10:02:39,667 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:39,667 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,858 | INFO | === Organizer run started (dry_run=True) ===
+2026-11-11 10:02:43,860 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\AppData\Local\Temp\tmpl_zszq1v\z.png -> C:\Users\Sreevalli\AppData\Local\Temp\tmpl_zszq1v\Images\z.png
+2026-11-11 10:02:43,860 | INFO | Run finished: total=1 moved={'Images': 1, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:02:43,868 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmp34ug3msv\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp34ug3msv\Images\a.jpg
+2026-11-11 10:02:43,868 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmp34ug3msv\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp34ug3msv\Images\a.jpg
+2026-11-11 10:02:43,869 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmp34ug3msv\b.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp34ug3msv\Documents\b.txt
+2026-11-11 10:02:43,869 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmp34ug3msv\b.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp34ug3msv\Documents\b.txt
+2026-11-11 10:02:43,869 | INFO | Run finished: total=2 moved={'Images': 1, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:02:43,869 | INFO | Run finished: total=2 moved={'Images': 1, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:02:43,875 | INFO | Duplicate handling: a.txt -> a_1.txt
+2026-11-11 10:02:43,875 | INFO | Duplicate handling: a.txt -> a_1.txt
+2026-11-11 10:02:43,875 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpoteth4yv\a.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpoteth4yv\Documents\a_1.txt
+2026-11-11 10:02:43,875 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpoteth4yv\a.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpoteth4yv\Documents\a_1.txt
+2026-11-11 10:02:43,876 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:43,876 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:43,876 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:02:43,876 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:02:43,877 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:02:43,877 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:02:43,881 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,881 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,884 | INFO | Skipped (hidden file): .secret.txt
+2026-11-11 10:02:43,884 | INFO | Skipped (hidden file): .secret.txt
+2026-11-11 10:02:43,885 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpyhp_7071\Documents
+2026-11-11 10:02:43,885 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpyhp_7071\Documents
+2026-11-11 10:02:43,886 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpyhp_7071\visible.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpyhp_7071\Documents\visible.txt
+2026-11-11 10:02:43,886 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpyhp_7071\visible.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpyhp_7071\Documents\visible.txt
+2026-11-11 10:02:43,887 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:43,887 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:43,889 | ERROR | Target folder does not exist: C:\Users\SREEVA~1\AppData\Local\Temp\tmpgqy6xajt\does_not_exist
+2026-11-11 10:02:43,889 | ERROR | Target folder does not exist: C:\Users\SREEVA~1\AppData\Local\Temp\tmpgqy6xajt\does_not_exist
+2026-11-11 10:02:43,900 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Images
+2026-11-11 10:02:43,900 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Images
+2026-11-11 10:02:43,901 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Images\a.jpg
+2026-11-11 10:02:43,901 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Images\a.jpg
+2026-11-11 10:02:43,902 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Documents
+2026-11-11 10:02:43,902 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Documents
+2026-11-11 10:02:43,903 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\b.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Documents\b.pdf
+2026-11-11 10:02:43,903 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\b.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Documents\b.pdf
+2026-11-11 10:02:43,905 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Videos
+2026-11-11 10:02:43,905 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Videos
+2026-11-11 10:02:43,905 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\c.mp4 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Videos\c.mp4
+2026-11-11 10:02:43,905 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\c.mp4 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Videos\c.mp4
+2026-11-11 10:02:43,907 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Audio
+2026-11-11 10:02:43,907 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Audio
+2026-11-11 10:02:43,907 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\d.mp3 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Audio\d.mp3
+2026-11-11 10:02:43,907 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\d.mp3 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Audio\d.mp3
+2026-11-11 10:02:43,909 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Archives
+2026-11-11 10:02:43,909 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Archives
+2026-11-11 10:02:43,909 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\e.zip -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Archives\e.zip
+2026-11-11 10:02:43,909 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\e.zip -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Archives\e.zip
+2026-11-11 10:02:43,911 | INFO | Run finished: total=5 moved={'Images': 1, 'Documents': 1, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,911 | INFO | Run finished: total=5 moved={'Images': 1, 'Documents': 1, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,918 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\Others
+2026-11-11 10:02:43,918 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\Others
+2026-11-11 10:02:43,918 | ERROR | Failed to move C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\bad.xyz: simulated locked file
+2026-11-11 10:02:43,918 | ERROR | Failed to move C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\bad.xyz: simulated locked file
+2026-11-11 10:02:43,919 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\Documents
+2026-11-11 10:02:43,919 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\Documents
+2026-11-11 10:02:43,920 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\good.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\Documents\good.txt
+2026-11-11 10:02:43,920 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\good.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\Documents\good.txt
+2026-11-11 10:02:43,921 | INFO | Run finished: total=2 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=1 dry_run=False
+2026-11-11 10:02:43,921 | INFO | Run finished: total=2 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=1 dry_run=False
+2026-11-11 10:02:43,926 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp2558b0f1\Others
+2026-11-11 10:02:43,926 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp2558b0f1\Others
+2026-11-11 10:02:43,927 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp2558b0f1\data -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp2558b0f1\Others\data
+2026-11-11 10:02:43,927 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp2558b0f1\data -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp2558b0f1\Others\data
+2026-11-11 10:02:43,929 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,929 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,933 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:43,933 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:43,933 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:02:43,933 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:02:43,934 | INFO | Duplicate handling: report.pdf -> report_1.pdf
+2026-11-11 10:02:43,934 | INFO | Duplicate handling: report.pdf -> report_1.pdf
+2026-11-11 10:02:43,935 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp3qc8vume\report.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp3qc8vume\Documents\report_1.pdf
+2026-11-11 10:02:43,935 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp3qc8vume\report.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp3qc8vume\Documents\report_1.pdf
+2026-11-11 10:02:43,937 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:02:43,937 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:02:43,938 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:43,938 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:43,938 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:02:43,938 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:02:43,938 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:02:43,938 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:02:43,943 | INFO | Skipped (not a regular file): sub
+2026-11-11 10:02:43,943 | INFO | Skipped (not a regular file): sub
+2026-11-11 10:02:43,943 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:43,943 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:43,947 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp_hehn6wv\Documents
+2026-11-11 10:02:43,947 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp_hehn6wv\Documents
+2026-11-11 10:02:43,948 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp_hehn6wv\clash.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp_hehn6wv\Documents\clash.txt
+2026-11-11 10:02:43,948 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp_hehn6wv\clash.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp_hehn6wv\Documents\clash.txt
+2026-11-11 10:02:43,950 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,950 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,952 | WARNING | Undo: original path occupied, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp_hehn6wv\clash.txt
+2026-11-11 10:02:43,952 | WARNING | Undo: original path occupied, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp_hehn6wv\clash.txt
+2026-11-11 10:02:43,958 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\Documents
+2026-11-11 10:02:43,958 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\Documents
+2026-11-11 10:02:43,958 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\Documents\restore_me.pdf
+2026-11-11 10:02:43,958 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\Documents\restore_me.pdf
+2026-11-11 10:02:43,960 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,960 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,963 | INFO | Undo: restored C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\Documents\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\restore_me.pdf
+2026-11-11 10:02:43,963 | INFO | Undo: restored C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\Documents\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\restore_me.pdf
+2026-11-11 10:02:43,967 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp1x98tlnp\Others
+2026-11-11 10:02:43,967 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp1x98tlnp\Others
+2026-11-11 10:02:43,968 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp1x98tlnp\unknown.xyz -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp1x98tlnp\Others\unknown.xyz
+2026-11-11 10:02:43,968 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp1x98tlnp\unknown.xyz -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp1x98tlnp\Others\unknown.xyz
+2026-11-11 10:02:43,970 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:43,970 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,267 | INFO | === Organizer run started (dry_run=True) ===
+2026-11-11 10:02:55,270 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\AppData\Local\Temp\tmpiwmgpql5\z.png -> C:\Users\Sreevalli\AppData\Local\Temp\tmpiwmgpql5\Images\z.png
+2026-11-11 10:02:55,270 | INFO | Run finished: total=1 moved={'Images': 1, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:02:55,276 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpa01apack\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpa01apack\Images\a.jpg
+2026-11-11 10:02:55,276 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpa01apack\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpa01apack\Images\a.jpg
+2026-11-11 10:02:55,277 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpa01apack\b.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpa01apack\Documents\b.txt
+2026-11-11 10:02:55,277 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpa01apack\b.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpa01apack\Documents\b.txt
+2026-11-11 10:02:55,277 | INFO | Run finished: total=2 moved={'Images': 1, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:02:55,277 | INFO | Run finished: total=2 moved={'Images': 1, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:02:55,284 | INFO | Duplicate handling: a.txt -> a_1.txt
+2026-11-11 10:02:55,284 | INFO | Duplicate handling: a.txt -> a_1.txt
+2026-11-11 10:02:55,284 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpls6aj2m4\a.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpls6aj2m4\Documents\a_1.txt
+2026-11-11 10:02:55,284 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpls6aj2m4\a.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpls6aj2m4\Documents\a_1.txt
+2026-11-11 10:02:55,285 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:55,285 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:55,285 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:02:55,285 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:02:55,287 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:02:55,287 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:02:55,290 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,290 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,294 | INFO | Skipped (hidden file): .secret.txt
+2026-11-11 10:02:55,294 | INFO | Skipped (hidden file): .secret.txt
+2026-11-11 10:02:55,296 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp6qb9k_x9\Documents
+2026-11-11 10:02:55,296 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp6qb9k_x9\Documents
+2026-11-11 10:02:55,297 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp6qb9k_x9\visible.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp6qb9k_x9\Documents\visible.txt
+2026-11-11 10:02:55,297 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp6qb9k_x9\visible.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp6qb9k_x9\Documents\visible.txt
+2026-11-11 10:02:55,299 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:55,299 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:55,301 | ERROR | Target folder does not exist: C:\Users\SREEVA~1\AppData\Local\Temp\tmpg4duejvc\does_not_exist
+2026-11-11 10:02:55,301 | ERROR | Target folder does not exist: C:\Users\SREEVA~1\AppData\Local\Temp\tmpg4duejvc\does_not_exist
+2026-11-11 10:02:55,310 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Images
+2026-11-11 10:02:55,310 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Images
+2026-11-11 10:02:55,311 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Images\a.jpg
+2026-11-11 10:02:55,311 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Images\a.jpg
+2026-11-11 10:02:55,313 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Documents
+2026-11-11 10:02:55,313 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Documents
+2026-11-11 10:02:55,314 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\b.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Documents\b.pdf
+2026-11-11 10:02:55,314 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\b.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Documents\b.pdf
+2026-11-11 10:02:55,315 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Videos
+2026-11-11 10:02:55,315 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Videos
+2026-11-11 10:02:55,316 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\c.mp4 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Videos\c.mp4
+2026-11-11 10:02:55,316 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\c.mp4 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Videos\c.mp4
+2026-11-11 10:02:55,318 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Audio
+2026-11-11 10:02:55,318 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Audio
+2026-11-11 10:02:55,319 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\d.mp3 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Audio\d.mp3
+2026-11-11 10:02:55,319 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\d.mp3 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Audio\d.mp3
+2026-11-11 10:02:55,321 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Archives
+2026-11-11 10:02:55,321 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Archives
+2026-11-11 10:02:55,321 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\e.zip -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Archives\e.zip
+2026-11-11 10:02:55,321 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\e.zip -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Archives\e.zip
+2026-11-11 10:02:55,324 | INFO | Run finished: total=5 moved={'Images': 1, 'Documents': 1, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,324 | INFO | Run finished: total=5 moved={'Images': 1, 'Documents': 1, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,333 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\Others
+2026-11-11 10:02:55,333 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\Others
+2026-11-11 10:02:55,334 | ERROR | Failed to move C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\bad.xyz: simulated locked file
+2026-11-11 10:02:55,334 | ERROR | Failed to move C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\bad.xyz: simulated locked file
+2026-11-11 10:02:55,335 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\Documents
+2026-11-11 10:02:55,335 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\Documents
+2026-11-11 10:02:55,336 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\good.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\Documents\good.txt
+2026-11-11 10:02:55,336 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\good.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\Documents\good.txt
+2026-11-11 10:02:55,337 | INFO | Run finished: total=2 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=1 dry_run=False
+2026-11-11 10:02:55,337 | INFO | Run finished: total=2 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=1 dry_run=False
+2026-11-11 10:02:55,342 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp46u3bwb5\Others
+2026-11-11 10:02:55,342 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp46u3bwb5\Others
+2026-11-11 10:02:55,343 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp46u3bwb5\data -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp46u3bwb5\Others\data
+2026-11-11 10:02:55,343 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp46u3bwb5\data -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp46u3bwb5\Others\data
+2026-11-11 10:02:55,345 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,345 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,350 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:55,350 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:55,351 | INFO | Duplicate handling: report.pdf -> report_1.pdf
+2026-11-11 10:02:55,351 | INFO | Duplicate handling: report.pdf -> report_1.pdf
+2026-11-11 10:02:55,352 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp3xefurlo\report.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp3xefurlo\Documents\report_1.pdf
+2026-11-11 10:02:55,352 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp3xefurlo\report.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp3xefurlo\Documents\report_1.pdf
+2026-11-11 10:02:55,354 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:55,354 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:55,355 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:55,355 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:02:55,355 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:55,355 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:55,360 | INFO | Skipped (not a regular file): sub
+2026-11-11 10:02:55,360 | INFO | Skipped (not a regular file): sub
+2026-11-11 10:02:55,360 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:55,360 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:02:55,367 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpbo7ywhkr\Documents
+2026-11-11 10:02:55,367 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpbo7ywhkr\Documents
+2026-11-11 10:02:55,368 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpbo7ywhkr\clash.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpbo7ywhkr\Documents\clash.txt
+2026-11-11 10:02:55,368 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpbo7ywhkr\clash.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpbo7ywhkr\Documents\clash.txt
+2026-11-11 10:02:55,370 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,370 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,373 | WARNING | Undo: original path occupied, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpbo7ywhkr\clash.txt
+2026-11-11 10:02:55,373 | WARNING | Undo: original path occupied, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpbo7ywhkr\clash.txt
+2026-11-11 10:02:55,380 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\Documents
+2026-11-11 10:02:55,380 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\Documents
+2026-11-11 10:02:55,381 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\Documents\restore_me.pdf
+2026-11-11 10:02:55,381 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\Documents\restore_me.pdf
+2026-11-11 10:02:55,383 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,383 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,395 | INFO | Undo: restored C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\Documents\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\restore_me.pdf
+2026-11-11 10:02:55,395 | INFO | Undo: restored C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\Documents\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\restore_me.pdf
+2026-11-11 10:02:55,402 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpnncd1omd\Others
+2026-11-11 10:02:55,402 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpnncd1omd\Others
+2026-11-11 10:02:55,403 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpnncd1omd\unknown.xyz -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpnncd1omd\Others\unknown.xyz
+2026-11-11 10:02:55,403 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpnncd1omd\unknown.xyz -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpnncd1omd\Others\unknown.xyz
+2026-11-11 10:02:55,404 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:02:55,404 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:01,520 | INFO | === Organizer run started (dry_run=True) ===
+2026-11-11 10:03:01,521 | INFO | Skipped (hidden file): .hidden_file
+2026-11-11 10:03:01,522 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\archive.backup.zip -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Archives\archive.backup.zip
+2026-11-11 10:03:01,523 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\data -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Others\data
+2026-11-11 10:03:01,525 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\document.pdf -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\document.pdf
+2026-11-11 10:03:01,525 | INFO | Skipped (not a regular file): nested_deep
+2026-11-11 10:03:01,525 | INFO | Skipped (not a regular file): nested_sub
+2026-11-11 10:03:01,526 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\notes.txt -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\notes.txt
+2026-11-11 10:03:01,527 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\photo.jpg -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Images\photo.jpg
+2026-11-11 10:03:01,529 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\README.TXT -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\README.TXT
+2026-11-11 10:03:01,530 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\song.mp3 -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Audio\song.mp3
+2026-11-11 10:03:01,532 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\sunset.JPG -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Images\sunset.JPG
+2026-11-11 10:03:01,533 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\unknown.xyz -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Others\unknown.xyz
+2026-11-11 10:03:01,534 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\video.mp4 -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Videos\video.mp4
+2026-11-11 10:03:01,534 | INFO | Run finished: total=10 moved={'Images': 2, 'Documents': 3, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 2} skipped=3 failed=0 dry_run=True
+2026-11-11 10:03:03,882 | INFO | === Organizer run started (dry_run=False) ===
+2026-11-11 10:03:03,883 | INFO | Skipped (hidden file): .hidden_file
+2026-11-11 10:03:03,884 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Archives
+2026-11-11 10:03:03,885 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\archive.backup.zip -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Archives\archive.backup.zip
+2026-11-11 10:03:03,887 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Others
+2026-11-11 10:03:03,888 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\data -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Others\data
+2026-11-11 10:03:03,889 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents
+2026-11-11 10:03:03,890 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\document.pdf -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\document.pdf
+2026-11-11 10:03:03,890 | INFO | Skipped (not a regular file): nested_deep
+2026-11-11 10:03:03,890 | INFO | Skipped (not a regular file): nested_sub
+2026-11-11 10:03:03,892 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\notes.txt -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\notes.txt
+2026-11-11 10:03:03,893 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Images
+2026-11-11 10:03:03,894 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\photo.jpg -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Images\photo.jpg
+2026-11-11 10:03:03,896 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\README.TXT -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\README.TXT
+2026-11-11 10:03:03,897 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Audio
+2026-11-11 10:03:03,898 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\song.mp3 -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Audio\song.mp3
+2026-11-11 10:03:03,899 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\sunset.JPG -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Images\sunset.JPG
+2026-11-11 10:03:03,901 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\unknown.xyz -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Others\unknown.xyz
+2026-11-11 10:03:03,902 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Videos
+2026-11-11 10:03:03,903 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\video.mp4 -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Videos\video.mp4
+2026-11-11 10:03:03,905 | INFO | Run finished: total=10 moved={'Images': 2, 'Documents': 3, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 2} skipped=3 failed=0 dry_run=False
+2026-11-11 10:03:06,540 | INFO | === Organizer run started (dry_run=False) ===
+2026-11-11 10:03:06,542 | INFO | Skipped (hidden file): .hidden_file
+2026-11-11 10:03:06,542 | INFO | Skipped (not a regular file): Archives
+2026-11-11 10:03:06,542 | INFO | Skipped (not a regular file): Audio
+2026-11-11 10:03:06,542 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:03:06,542 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:03:06,542 | INFO | Skipped (not a regular file): nested_deep
+2026-11-11 10:03:06,542 | INFO | Skipped (not a regular file): nested_sub
+2026-11-11 10:03:06,542 | INFO | Skipped (not a regular file): Others
+2026-11-11 10:03:06,543 | INFO | Skipped (not a regular file): Videos
+2026-11-11 10:03:06,543 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=9 failed=0 dry_run=False
+2026-11-11 10:03:09,128 | INFO | === Organizer run started (dry_run=False) ===
+2026-11-11 10:03:09,128 | ERROR | Target folder does not exist: C:\Users\Sreevalli\Downloads\sk3\file-organizer\nonexistent_folder
+2026-11-11 10:03:11,683 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpdbxx4j2h\Documents\visible.txt
+2026-11-11 10:03:11,683 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Images\a.jpg
+2026-11-11 10:03:11,683 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Documents\b.pdf
+2026-11-11 10:03:11,683 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Videos\c.mp4
+2026-11-11 10:03:11,683 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Audio\d.mp3
+2026-11-11 10:03:11,683 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmph4jvyun6\Archives\e.zip
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmps4x34pd7\Documents\good.txt
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpeozrz0qm\Others\data
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpwyisrrgd\Documents\clash.txt
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpep_n2one\Documents\restore_me.pdf
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmptwrcea_9\Others\unknown.xyz
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpoteth4yv\Documents\a_1.txt
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpyhp_7071\Documents\visible.txt
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Images\a.jpg
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Documents\b.pdf
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Videos\c.mp4
+2026-11-11 10:03:11,684 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Audio\d.mp3
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpt0rni5ts\Archives\e.zip
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp6igaj_br\Documents\good.txt
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp2558b0f1\Others\data
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp3qc8vume\Documents\report_1.pdf
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp_hehn6wv\Documents\clash.txt
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp98__a4i5\Documents\restore_me.pdf
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp1x98tlnp\Others\unknown.xyz
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpls6aj2m4\Documents\a_1.txt
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp6qb9k_x9\Documents\visible.txt
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Images\a.jpg
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Documents\b.pdf
+2026-11-11 10:03:11,685 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Videos\c.mp4
+2026-11-11 10:03:11,686 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Audio\d.mp3
+2026-11-11 10:03:11,686 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpqp0yf3zx\Archives\e.zip
+2026-11-11 10:03:11,686 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp9omcbmpq\Documents\good.txt
+2026-11-11 10:03:11,686 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp46u3bwb5\Others\data
+2026-11-11 10:03:11,686 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmp3xefurlo\Documents\report_1.pdf
+2026-11-11 10:03:11,686 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpbo7ywhkr\Documents\clash.txt
+2026-11-11 10:03:11,686 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpbro8v0nv\Documents\restore_me.pdf
+2026-11-11 10:03:11,686 | WARNING | Undo: destination missing, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpnncd1omd\Others\unknown.xyz
+2026-11-11 10:03:11,687 | INFO | Undo: restored C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Archives\archive.backup.zip -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\archive.backup.zip
+2026-11-11 10:03:11,689 | INFO | Undo: restored C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Others\data -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\data
+2026-11-11 10:03:11,690 | INFO | Undo: restored C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\document.pdf -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\document.pdf
+2026-11-11 10:03:11,691 | INFO | Undo: restored C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\notes.txt -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\notes.txt
+2026-11-11 10:03:11,691 | INFO | Undo: restored C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Images\photo.jpg -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\photo.jpg
+2026-11-11 10:03:11,692 | INFO | Undo: restored C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\README.TXT -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\README.TXT
+2026-11-11 10:03:11,693 | INFO | Undo: restored C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Audio\song.mp3 -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\song.mp3
+2026-11-11 10:03:11,694 | INFO | Undo: restored C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Images\sunset.JPG -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\sunset.JPG
+2026-11-11 10:03:11,694 | INFO | Undo: restored C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Others\unknown.xyz -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\unknown.xyz
+2026-11-11 10:03:11,695 | INFO | Undo: restored C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Videos\video.mp4 -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\video.mp4
+2026-11-11 10:03:22,801 | INFO | === Organizer run started (dry_run=True) ===
+2026-11-11 10:03:22,802 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\AppData\Local\Temp\tmp8k0rkx09\z.png -> C:\Users\Sreevalli\AppData\Local\Temp\tmp8k0rkx09\Images\z.png
+2026-11-11 10:03:22,802 | INFO | Run finished: total=1 moved={'Images': 1, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:03:22,808 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpxemb7t0_\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpxemb7t0_\Images\a.jpg
+2026-11-11 10:03:22,808 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpxemb7t0_\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpxemb7t0_\Images\a.jpg
+2026-11-11 10:03:22,809 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpxemb7t0_\b.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpxemb7t0_\Documents\b.txt
+2026-11-11 10:03:22,809 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpxemb7t0_\b.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpxemb7t0_\Documents\b.txt
+2026-11-11 10:03:22,809 | INFO | Run finished: total=2 moved={'Images': 1, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:03:22,809 | INFO | Run finished: total=2 moved={'Images': 1, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:03:22,815 | INFO | Duplicate handling: a.txt -> a_1.txt
+2026-11-11 10:03:22,815 | INFO | Duplicate handling: a.txt -> a_1.txt
+2026-11-11 10:03:22,815 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpf6yk21o7\a.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpf6yk21o7\Documents\a_1.txt
+2026-11-11 10:03:22,815 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpf6yk21o7\a.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpf6yk21o7\Documents\a_1.txt
+2026-11-11 10:03:22,815 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:03:22,815 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:03:22,816 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:03:22,816 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:03:22,817 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:03:22,817 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:03:22,821 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,821 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,825 | INFO | Skipped (hidden file): .secret.txt
+2026-11-11 10:03:22,825 | INFO | Skipped (hidden file): .secret.txt
+2026-11-11 10:03:22,827 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpzwwclvqj\Documents
+2026-11-11 10:03:22,827 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpzwwclvqj\Documents
+2026-11-11 10:03:22,828 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpzwwclvqj\visible.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpzwwclvqj\Documents\visible.txt
+2026-11-11 10:03:22,828 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpzwwclvqj\visible.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpzwwclvqj\Documents\visible.txt
+2026-11-11 10:03:22,829 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:03:22,829 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:03:22,833 | ERROR | Target folder does not exist: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqds4n6j_\does_not_exist
+2026-11-11 10:03:22,833 | ERROR | Target folder does not exist: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqds4n6j_\does_not_exist
+2026-11-11 10:03:22,839 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Images
+2026-11-11 10:03:22,839 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Images
+2026-11-11 10:03:22,840 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Images\a.jpg
+2026-11-11 10:03:22,840 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Images\a.jpg
+2026-11-11 10:03:22,842 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Documents
+2026-11-11 10:03:22,842 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Documents
+2026-11-11 10:03:22,843 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\b.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Documents\b.pdf
+2026-11-11 10:03:22,843 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\b.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Documents\b.pdf
+2026-11-11 10:03:22,844 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Videos
+2026-11-11 10:03:22,844 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Videos
+2026-11-11 10:03:22,845 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\c.mp4 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Videos\c.mp4
+2026-11-11 10:03:22,845 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\c.mp4 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Videos\c.mp4
+2026-11-11 10:03:22,847 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Audio
+2026-11-11 10:03:22,847 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Audio
+2026-11-11 10:03:22,847 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\d.mp3 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Audio\d.mp3
+2026-11-11 10:03:22,847 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\d.mp3 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Audio\d.mp3
+2026-11-11 10:03:22,849 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Archives
+2026-11-11 10:03:22,849 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Archives
+2026-11-11 10:03:22,850 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\e.zip -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Archives\e.zip
+2026-11-11 10:03:22,850 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\e.zip -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpvdfavv64\Archives\e.zip
+2026-11-11 10:03:22,851 | INFO | Run finished: total=5 moved={'Images': 1, 'Documents': 1, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,851 | INFO | Run finished: total=5 moved={'Images': 1, 'Documents': 1, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,860 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpchuhanft\Others
+2026-11-11 10:03:22,860 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpchuhanft\Others
+2026-11-11 10:03:22,860 | ERROR | Failed to move C:\Users\SREEVA~1\AppData\Local\Temp\tmpchuhanft\bad.xyz: simulated locked file
+2026-11-11 10:03:22,860 | ERROR | Failed to move C:\Users\SREEVA~1\AppData\Local\Temp\tmpchuhanft\bad.xyz: simulated locked file
+2026-11-11 10:03:22,862 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpchuhanft\Documents
+2026-11-11 10:03:22,862 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpchuhanft\Documents
+2026-11-11 10:03:22,863 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpchuhanft\good.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpchuhanft\Documents\good.txt
+2026-11-11 10:03:22,863 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpchuhanft\good.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpchuhanft\Documents\good.txt
+2026-11-11 10:03:22,864 | INFO | Run finished: total=2 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=1 dry_run=False
+2026-11-11 10:03:22,864 | INFO | Run finished: total=2 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=1 dry_run=False
+2026-11-11 10:03:22,870 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp5rs2jg94\Others
+2026-11-11 10:03:22,870 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp5rs2jg94\Others
+2026-11-11 10:03:22,870 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp5rs2jg94\data -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp5rs2jg94\Others\data
+2026-11-11 10:03:22,870 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp5rs2jg94\data -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp5rs2jg94\Others\data
+2026-11-11 10:03:22,872 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,872 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,877 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:03:22,877 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:03:22,877 | INFO | Duplicate handling: report.pdf -> report_1.pdf
+2026-11-11 10:03:22,877 | INFO | Duplicate handling: report.pdf -> report_1.pdf
+2026-11-11 10:03:22,878 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpeb1qtr9v\report.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpeb1qtr9v\Documents\report_1.pdf
+2026-11-11 10:03:22,878 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpeb1qtr9v\report.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpeb1qtr9v\Documents\report_1.pdf
+2026-11-11 10:03:22,879 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:03:22,879 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:03:22,881 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:03:22,881 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:03:22,881 | INFO | Skipped (not a regular file): logs
+2026-11-11 10:03:22,881 | INFO | Skipped (not a regular file): logs
+2026-11-11 10:03:22,883 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpeb1qtr9v\Others
+2026-11-11 10:03:22,883 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpeb1qtr9v\Others
+2026-11-11 10:03:22,884 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpeb1qtr9v\manifest.json -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpeb1qtr9v\Others\manifest.json
+2026-11-11 10:03:22,884 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpeb1qtr9v\manifest.json -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpeb1qtr9v\Others\manifest.json
+2026-11-11 10:03:22,885 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=2 failed=0 dry_run=False
+2026-11-11 10:03:22,885 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=2 failed=0 dry_run=False
+2026-11-11 10:03:22,890 | INFO | Skipped (not a regular file): sub
+2026-11-11 10:03:22,890 | INFO | Skipped (not a regular file): sub
+2026-11-11 10:03:22,890 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:03:22,890 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:03:22,895 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmponkalyhq\Documents
+2026-11-11 10:03:22,895 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmponkalyhq\Documents
+2026-11-11 10:03:22,896 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmponkalyhq\clash.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmponkalyhq\Documents\clash.txt
+2026-11-11 10:03:22,896 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmponkalyhq\clash.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmponkalyhq\Documents\clash.txt
+2026-11-11 10:03:22,897 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,897 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,900 | WARNING | Undo: original path occupied, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmponkalyhq\clash.txt
+2026-11-11 10:03:22,900 | WARNING | Undo: original path occupied, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmponkalyhq\clash.txt
+2026-11-11 10:03:22,907 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpkkt8ui_y\Documents
+2026-11-11 10:03:22,907 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpkkt8ui_y\Documents
+2026-11-11 10:03:22,907 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpkkt8ui_y\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpkkt8ui_y\Documents\restore_me.pdf
+2026-11-11 10:03:22,907 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpkkt8ui_y\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpkkt8ui_y\Documents\restore_me.pdf
+2026-11-11 10:03:22,909 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,909 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,912 | INFO | Undo: restored C:\Users\SREEVA~1\AppData\Local\Temp\tmpkkt8ui_y\Documents\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpkkt8ui_y\restore_me.pdf
+2026-11-11 10:03:22,912 | INFO | Undo: restored C:\Users\SREEVA~1\AppData\Local\Temp\tmpkkt8ui_y\Documents\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpkkt8ui_y\restore_me.pdf
+2026-11-11 10:03:22,918 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpyjvdiw1h\Others
+2026-11-11 10:03:22,918 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpyjvdiw1h\Others
+2026-11-11 10:03:22,919 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpyjvdiw1h\unknown.xyz -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpyjvdiw1h\Others\unknown.xyz
+2026-11-11 10:03:22,919 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpyjvdiw1h\unknown.xyz -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpyjvdiw1h\Others\unknown.xyz
+2026-11-11 10:03:22,921 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:22,921 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:03:26,443 | INFO | === Organizer run started (dry_run=False) ===
+2026-11-11 10:03:26,444 | INFO | Skipped (hidden file): .hidden_file
+2026-11-11 10:03:26,445 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Archives
+2026-11-11 10:03:26,446 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\archive.backup.zip -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Archives\archive.backup.zip
+2026-11-11 10:03:26,447 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Others
+2026-11-11 10:03:26,448 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\data -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Others\data
+2026-11-11 10:03:26,449 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents
+2026-11-11 10:03:26,450 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\document.pdf -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\document.pdf
+2026-11-11 10:03:26,450 | INFO | Skipped (not a regular file): nested_deep
+2026-11-11 10:03:26,451 | INFO | Skipped (not a regular file): nested_sub
+2026-11-11 10:03:26,453 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\notes.txt -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\notes.txt
+2026-11-11 10:03:26,454 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Images
+2026-11-11 10:03:26,455 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\photo.jpg -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Images\photo.jpg
+2026-11-11 10:03:26,456 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\README.TXT -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Documents\README.TXT
+2026-11-11 10:03:26,458 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Audio
+2026-11-11 10:03:26,459 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\song.mp3 -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Audio\song.mp3
+2026-11-11 10:03:26,460 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\sunset.JPG -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Images\sunset.JPG
+2026-11-11 10:03:26,461 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\unknown.xyz -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Others\unknown.xyz
+2026-11-11 10:03:26,462 | INFO | Created directory: C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Videos
+2026-11-11 10:03:26,463 | INFO | Moved C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\video.mp4 -> C:\Users\Sreevalli\Downloads\sk3\file-organizer\sample_folder\Videos\video.mp4
+2026-11-11 10:03:26,465 | INFO | Run finished: total=10 moved={'Images': 2, 'Documents': 3, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 2} skipped=3 failed=0 dry_run=False
+2026-11-11 10:04:04,533 | INFO | === Organizer run started (dry_run=True) ===
+2026-11-11 10:04:04,535 | INFO | [DRY-RUN] Would move C:\Users\Sreevalli\AppData\Local\Temp\tmpmvgvmsjm\z.png -> C:\Users\Sreevalli\AppData\Local\Temp\tmpmvgvmsjm\Images\z.png
+2026-11-11 10:04:04,535 | INFO | Run finished: total=1 moved={'Images': 1, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:04:04,541 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpp7dvn___\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpp7dvn___\Images\a.jpg
+2026-11-11 10:04:04,541 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpp7dvn___\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpp7dvn___\Images\a.jpg
+2026-11-11 10:04:04,542 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpp7dvn___\b.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpp7dvn___\Documents\b.txt
+2026-11-11 10:04:04,542 | INFO | [DRY-RUN] Would move C:\Users\SREEVA~1\AppData\Local\Temp\tmpp7dvn___\b.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpp7dvn___\Documents\b.txt
+2026-11-11 10:04:04,543 | INFO | Run finished: total=2 moved={'Images': 1, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:04:04,543 | INFO | Run finished: total=2 moved={'Images': 1, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=True
+2026-11-11 10:04:04,548 | INFO | Duplicate handling: a.txt -> a_1.txt
+2026-11-11 10:04:04,548 | INFO | Duplicate handling: a.txt -> a_1.txt
+2026-11-11 10:04:04,549 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpv7l92c45\a.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpv7l92c45\Documents\a_1.txt
+2026-11-11 10:04:04,549 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpv7l92c45\a.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpv7l92c45\Documents\a_1.txt
+2026-11-11 10:04:04,550 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:04:04,550 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:04:04,550 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:04:04,550 | INFO | Skipped (not a regular file): Images
+2026-11-11 10:04:04,552 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:04:04,552 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=2 failed=0 dry_run=False
+2026-11-11 10:04:04,555 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,555 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,559 | INFO | Skipped (hidden file): .secret.txt
+2026-11-11 10:04:04,559 | INFO | Skipped (hidden file): .secret.txt
+2026-11-11 10:04:04,561 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpn05h11f7\Documents
+2026-11-11 10:04:04,561 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpn05h11f7\Documents
+2026-11-11 10:04:04,562 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpn05h11f7\visible.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpn05h11f7\Documents\visible.txt
+2026-11-11 10:04:04,562 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpn05h11f7\visible.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpn05h11f7\Documents\visible.txt
+2026-11-11 10:04:04,564 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:04:04,564 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:04:04,566 | ERROR | Target folder does not exist: C:\Users\SREEVA~1\AppData\Local\Temp\tmpwsoo26n3\does_not_exist
+2026-11-11 10:04:04,566 | ERROR | Target folder does not exist: C:\Users\SREEVA~1\AppData\Local\Temp\tmpwsoo26n3\does_not_exist
+2026-11-11 10:04:04,574 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Images
+2026-11-11 10:04:04,574 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Images
+2026-11-11 10:04:04,575 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Images\a.jpg
+2026-11-11 10:04:04,575 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\a.jpg -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Images\a.jpg
+2026-11-11 10:04:04,577 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Documents
+2026-11-11 10:04:04,577 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Documents
+2026-11-11 10:04:04,577 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\b.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Documents\b.pdf
+2026-11-11 10:04:04,577 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\b.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Documents\b.pdf
+2026-11-11 10:04:04,579 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Videos
+2026-11-11 10:04:04,579 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Videos
+2026-11-11 10:04:04,580 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\c.mp4 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Videos\c.mp4
+2026-11-11 10:04:04,580 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\c.mp4 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Videos\c.mp4
+2026-11-11 10:04:04,582 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Audio
+2026-11-11 10:04:04,582 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Audio
+2026-11-11 10:04:04,583 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\d.mp3 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Audio\d.mp3
+2026-11-11 10:04:04,583 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\d.mp3 -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Audio\d.mp3
+2026-11-11 10:04:04,585 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Archives
+2026-11-11 10:04:04,585 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Archives
+2026-11-11 10:04:04,586 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\e.zip -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Archives\e.zip
+2026-11-11 10:04:04,586 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\e.zip -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpokvjeuw9\Archives\e.zip
+2026-11-11 10:04:04,587 | INFO | Run finished: total=5 moved={'Images': 1, 'Documents': 1, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,587 | INFO | Run finished: total=5 moved={'Images': 1, 'Documents': 1, 'Videos': 1, 'Audio': 1, 'Archives': 1, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,597 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp8iruf9pf\Others
+2026-11-11 10:04:04,597 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp8iruf9pf\Others
+2026-11-11 10:04:04,598 | ERROR | Failed to move C:\Users\SREEVA~1\AppData\Local\Temp\tmp8iruf9pf\bad.xyz: simulated locked file
+2026-11-11 10:04:04,598 | ERROR | Failed to move C:\Users\SREEVA~1\AppData\Local\Temp\tmp8iruf9pf\bad.xyz: simulated locked file
+2026-11-11 10:04:04,600 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp8iruf9pf\Documents
+2026-11-11 10:04:04,600 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp8iruf9pf\Documents
+2026-11-11 10:04:04,600 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp8iruf9pf\good.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp8iruf9pf\Documents\good.txt
+2026-11-11 10:04:04,600 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp8iruf9pf\good.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp8iruf9pf\Documents\good.txt
+2026-11-11 10:04:04,602 | INFO | Run finished: total=2 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=1 dry_run=False
+2026-11-11 10:04:04,602 | INFO | Run finished: total=2 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=1 dry_run=False
+2026-11-11 10:04:04,609 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp81fzeqf0\Others
+2026-11-11 10:04:04,609 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp81fzeqf0\Others
+2026-11-11 10:04:04,610 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp81fzeqf0\data -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp81fzeqf0\Others\data
+2026-11-11 10:04:04,610 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp81fzeqf0\data -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp81fzeqf0\Others\data
+2026-11-11 10:04:04,612 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,612 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,616 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:04:04,616 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:04:04,618 | INFO | Duplicate handling: report.pdf -> report_1.pdf
+2026-11-11 10:04:04,618 | INFO | Duplicate handling: report.pdf -> report_1.pdf
+2026-11-11 10:04:04,619 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp0pxmzm01\report.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp0pxmzm01\Documents\report_1.pdf
+2026-11-11 10:04:04,619 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp0pxmzm01\report.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp0pxmzm01\Documents\report_1.pdf
+2026-11-11 10:04:04,620 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:04:04,620 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:04:04,621 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:04:04,621 | INFO | Skipped (not a regular file): Documents
+2026-11-11 10:04:04,621 | INFO | Skipped (not a regular file): logs
+2026-11-11 10:04:04,621 | INFO | Skipped (not a regular file): logs
+2026-11-11 10:04:04,623 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp0pxmzm01\Others
+2026-11-11 10:04:04,623 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp0pxmzm01\Others
+2026-11-11 10:04:04,624 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp0pxmzm01\manifest.json -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp0pxmzm01\Others\manifest.json
+2026-11-11 10:04:04,624 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp0pxmzm01\manifest.json -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp0pxmzm01\Others\manifest.json
+2026-11-11 10:04:04,625 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=2 failed=0 dry_run=False
+2026-11-11 10:04:04,625 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=2 failed=0 dry_run=False
+2026-11-11 10:04:04,631 | INFO | Skipped (not a regular file): sub
+2026-11-11 10:04:04,631 | INFO | Skipped (not a regular file): sub
+2026-11-11 10:04:04,632 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:04:04,632 | INFO | Run finished: total=0 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=1 failed=0 dry_run=False
+2026-11-11 10:04:04,639 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqqi2ejr2\Documents
+2026-11-11 10:04:04,639 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpqqi2ejr2\Documents
+2026-11-11 10:04:04,640 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqqi2ejr2\clash.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqqi2ejr2\Documents\clash.txt
+2026-11-11 10:04:04,640 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpqqi2ejr2\clash.txt -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpqqi2ejr2\Documents\clash.txt
+2026-11-11 10:04:04,641 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,641 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,644 | WARNING | Undo: original path occupied, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpqqi2ejr2\clash.txt
+2026-11-11 10:04:04,644 | WARNING | Undo: original path occupied, skipping C:\Users\SREEVA~1\AppData\Local\Temp\tmpqqi2ejr2\clash.txt
+2026-11-11 10:04:04,651 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp023_i1bh\Documents
+2026-11-11 10:04:04,651 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmp023_i1bh\Documents
+2026-11-11 10:04:04,652 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp023_i1bh\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp023_i1bh\Documents\restore_me.pdf
+2026-11-11 10:04:04,652 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmp023_i1bh\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp023_i1bh\Documents\restore_me.pdf
+2026-11-11 10:04:04,654 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,654 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 1, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 0} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,657 | INFO | Undo: restored C:\Users\SREEVA~1\AppData\Local\Temp\tmp023_i1bh\Documents\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp023_i1bh\restore_me.pdf
+2026-11-11 10:04:04,657 | INFO | Undo: restored C:\Users\SREEVA~1\AppData\Local\Temp\tmp023_i1bh\Documents\restore_me.pdf -> C:\Users\SREEVA~1\AppData\Local\Temp\tmp023_i1bh\restore_me.pdf
+2026-11-11 10:04:04,662 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w8i0z3\Others
+2026-11-11 10:04:04,662 | INFO | Created directory: C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w8i0z3\Others
+2026-11-11 10:04:04,662 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w8i0z3\unknown.xyz -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w8i0z3\Others\unknown.xyz
+2026-11-11 10:04:04,662 | INFO | Moved C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w8i0z3\unknown.xyz -> C:\Users\SREEVA~1\AppData\Local\Temp\tmpj0w8i0z3\Others\unknown.xyz
+2026-11-11 10:04:04,664 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False
+2026-11-11 10:04:04,664 | INFO | Run finished: total=1 moved={'Images': 0, 'Documents': 0, 'Videos': 0, 'Audio': 0, 'Archives': 0, 'Others': 1} skipped=0 failed=0 dry_run=False

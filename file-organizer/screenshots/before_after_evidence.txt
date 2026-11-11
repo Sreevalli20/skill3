@@ -1,0 +1,48 @@
+BEFORE / AFTER FOLDER-TREE EVIDENCE
+===================================
+Captured on Windows, Python 3.14.6, during real execution of
+`python organizer.py sample_folder`.
+
+BEFORE (flat, messy folder)
+---------------------------
+sample_folder
+├── .hidden_file          (hidden -> skipped)
+├── README.TXT            -> Documents
+├── archive.backup.zip    -> Archives  (multi-dot name)
+├── data                  -> Others    (no extension)
+├── document.pdf          -> Documents
+├── nested_deep/          (subfolder -> skipped)
+│   └── inner_deep.txt
+├── nested_sub/           (subfolder -> skipped)
+│   └── inner.txt
+├── notes.txt             -> Documents
+├── photo.jpg             -> Images
+├── song.mp3              -> Audio
+├── sunset.JPG            -> Images    (uppercase extension)
+├── unknown.xyz           -> Others    (unknown extension)
+└── video.mp4             -> Videos
+
+AFTER (organized)
+-----------------
+sample_folder
+├── .hidden_file                 (untouched)
+├── Archives/
+│   └── archive.backup.zip
+├── Audio/
+│   └── song.mp3
+├── Documents/
+│   ├── README.TXT
+│   ├── document.pdf
+│   └── notes.txt
+├── Images/
+│   ├── photo.jpg
+│   └── sunset.JPG
+├── Others/
+│   ├── data
+│   └── unknown.xyz
+├── Videos/
+│   └── video.mp4
+├── nested_deep/                 (untouched)
+│   └── inner_deep.txt
+└── nested_sub/                  (untouched)
+    └── inner.txt
